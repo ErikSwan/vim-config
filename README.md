@@ -9,4 +9,3 @@ Simply clone the repository into your home directory, or manually download the `
 
 Or, if you have already cloned or are using an older version of Git, run `git submodule update --init --recursive` to pull in all of the files for the included plugins.
 
-If you want YouCompleteMe (an autocompletion plugin) to work, you will also need to install it by following the [installation instructions](https://github.com/Valloric/YouCompleteMe#installation).
