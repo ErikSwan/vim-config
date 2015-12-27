@@ -4,6 +4,7 @@ This is my vim configuration, which I have slowly been building up over a year o
 
 ## How to Use
 Simply clone the repository into your home directory, or manually download the `.vimrc` file and `.vim` directory, and place them within your home directory. When cloning, use the `--recursive` option to clone all submodules as well:
+
 `git clone --recursive https://github.com/ErikSwan/vim-config.git`
 
 Or, if you have already cloned or are using an older version of Git, run `git submodule update --init --recursive` to pull in all of the files for the included plugins.
